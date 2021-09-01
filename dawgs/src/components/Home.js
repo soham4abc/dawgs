@@ -1,6 +1,12 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import TakeNotes from "./TakeNotes";
+import Display from "./Display";
+import Attendance from "./Attendance";
+import Pdf from "./Pdf";
+import Music from "./Music";
+import Contests from "./Contest";
+
 
 function Home() {
   return (
@@ -26,12 +32,12 @@ function Home() {
               <ul class="navbar-nav">
                 <li class="nav-item">
                   <a class="nav-link active" aria-current="page" href="#">
-                    <Link to="/">Home</Link>
+                    <Link to="display">Home</Link>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">
-                    <Link to="/">SearchPdf</Link>
+                    <Link to="pdf">SearchPdf</Link>
                   </a>
                 </li>
                 <li class="nav-item">
@@ -41,17 +47,17 @@ function Home() {
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">
-                    Contests
+                   <Link to="contest">Contest</Link>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">
-                    Music
+                  <Link to="music">Music</Link>
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#">
-                    AttendenceSystem
+                  <Link to="attendance">Attendance</Link>
                   </a>
                 </li>
               </ul>
@@ -62,11 +68,24 @@ function Home() {
           <Route path="/takeNotes">
             <TakeNotes />
           </Route>
+          <Route path="/display">
+            <Display />
+          </Route>
+          <Route path="/contest">
+            <Contests />
+          </Route>
+          <Route path="/music">
+            <Music />
+          </Route>
+          <Route path="/attendance">
+            <Attendance />
+          </Route>
+          <Route path="/pdf">
+            <Pdf />
+          </Route>
         </Switch>
       </Router>
-      <div className="container">
-        <h1>This is an app from our own mehnat</h1>
-      </div>
+      
     </>
   );
 }

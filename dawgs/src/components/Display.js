@@ -94,7 +94,10 @@ function display() {
             data-bs-target="#myCarousel"
             data-bs-slide="prev"
           >
-            <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span
+              className="carousel-control-prev-icon"
+              aria-hidden="true"
+            ></span>
             <span className="visually-hidden">Previous</span>
           </button>
           <button
@@ -103,7 +106,10 @@ function display() {
             data-bs-target="#myCarousel"
             data-bs-slide="next"
           >
-            <span className="carousel-control-next-icon" aria-hidden="true"></span>
+            <span
+              className="carousel-control-next-icon"
+              aria-hidden="true"
+            ></span>
             <span className="visually-hidden">Next</span>
           </button>
         </div>
@@ -120,24 +126,9 @@ function display() {
 
               <h2>
                 Administration
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  fill="currentColor"
-                  className="bi bi-bank2"
-                  viewBox="0 0 16 16"
-                >
-                  <path d="M8.277.084a.5.5 0 0 0-.554 0l-7.5 5A.5.5 0 0 0 .5 6h1.875v7H1.5a.5.5 0 0 0 0 1h13a.5.5 0 1 0 0-1h-.875V6H15.5a.5.5 0 0 0 .277-.916l-7.5-5zM12.375 6v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zm-2.5 0v7h-1.25V6h1.25zM8 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2zM.5 15a.5.5 0 0 0 0 1h15a.5.5 0 1 0 0-1H.5z" />
-                </svg>
               </h2>
               <p>
                 For handling the whole Administrative works of the institution
-              </p>
-              <p>
-                <a className="btn btn-primary" href="/">
-                  View details »
-                </a>
               </p>
             </div>
             <div className="col-lg-4">
@@ -154,11 +145,6 @@ function display() {
                 For Teachers/Professors- An alternative way of teaching as well
                 as learning.
               </p>
-              <p>
-                <a className="btn btn-success" href="/">
-                  View details »
-                </a>
-              </p>
             </div>
             <div className="col-lg-4">
               <img
@@ -173,11 +159,6 @@ function display() {
               <p>
                 And lastly this, the third column is one and only for students.
               </p>
-              <p>
-                <a className="btn btn-danger" href="/">
-                  View details »
-                </a>
-              </p>
             </div>
           </div>
           <hr className="featurette-divider" />
@@ -185,16 +166,16 @@ function display() {
           <div className="row featurette">
             <div className="col-md-7">
               <h2 className="featurette-heading">
-                First featurette heading.
-                <span className="text-muted">It’ll blow your mind.</span>
+                Facial Recorginition.
+                <span className="text-muted"> An authority friendly idea</span>
               </h2>
               <p className="lead">
-                Some great placeholder content for the first featurette here.
-                Imagine some exciting prose here.
+                A system for institution authorities to note down students'
+                attendance with an ease.
               </p>
             </div>
             <div className="col-md-5">
-              <svg
+              <img
                 className="
               bd-placeholder-img bd-placeholder-img-lg
               featurette-image
@@ -203,18 +184,9 @@ function display() {
             "
                 width="500"
                 height="300"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                aria-label="Placeholder: 500x300"
-                preserveAspectRatio="xMidYMid slice"
-                focusable="false"
-              >
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#eee"></rect>
-                <text x="50%" y="50%" fill="#aaa" dy=".3em">
-                  500x300
-                </text>
-              </svg>
+                src="https://source.unsplash.com/500x300/?phone,selfie"
+                alt=""
+              />
             </div>
           </div>
 
@@ -223,17 +195,15 @@ function display() {
           <div className="row featurette">
             <div className="col-md-7 order-md-2">
               <h2 className="featurette-heading">
-                Oh yeah, it’s that good.
-                <span className="text-muted">See for yourself.</span>
+                TakeNotes.
+                <span className="text-muted"> Take notes by yourself.</span>
               </h2>
               <p className="lead">
-                Another featurette? Of course. More placeholder content here to
-                give you an idea of how this layout would work with some actual
-                real-world content in place.
+                Another feature? Of course. This time it's for students to take notes at a time of their ongoing classes.
               </p>
             </div>
             <div className="col-md-5 order-md-1">
-              <svg
+            <img
                 className="
               bd-placeholder-img bd-placeholder-img-lg
               featurette-image
@@ -242,18 +212,9 @@ function display() {
             "
                 width="500"
                 height="300"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                aria-label="Placeholder: 500x500"
-                preserveAspectRatio="xMidYMid slice"
-                focusable="false"
-              >
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#eee"></rect>
-                <text x="50%" y="50%" fill="#aaa" dy=".3em">
-                  500x300
-                </text>
-              </svg>
+                src="https://source.unsplash.com/500x300/?notebooks,pen"
+                alt=""
+              />
             </div>
           </div>
 
@@ -262,17 +223,15 @@ function display() {
           <div className="row featurette">
             <div className="col-md-7">
               <h2 className="featurette-heading">
-                And lastly, this one. <span className="text-muted">Checkmate.</span>
+                And lastly, this one, Optimized Google Search string.{" "}
+                <span className="text-muted">Checkmate.</span>
               </h2>
               <p className="lead">
-                And yes, this is the last block of representative placeholder
-                content. Again, not really intended to be actually read, simply
-                here to give you a better view of what this would look like with
-                some actual content. Your content.
+                And yes, this is the last feature which can help the user(student/teacher) to access the Google web browser for any search without facing any problem.
               </p>
             </div>
             <div className="col-md-5">
-              <svg
+            <img
                 className="
               bd-placeholder-img bd-placeholder-img-lg
               featurette-image
@@ -281,18 +240,9 @@ function display() {
             "
                 width="500"
                 height="300"
-                xmlns="http://www.w3.org/2000/svg"
-                role="img"
-                aria-label="Placeholder: 500x500"
-                preserveAspectRatio="xMidYMid slice"
-                focusable="false"
-              >
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#eee"></rect>
-                <text x="50%" y="50%" fill="#aaa" dy=".3em">
-                  500x300
-                </text>
-              </svg>
+                src="https://source.unsplash.com/500x300/?google,search"
+                alt=""
+              />
             </div>
           </div>
 
@@ -317,8 +267,7 @@ function display() {
             </a>
           </p>
           <p>
-          © 2021 made with love · <a href="/">Privacy</a> ·{" "}
-            <a href="/">Terms</a>
+            © 2021 made with love
           </p>
         </footer>
       </main>

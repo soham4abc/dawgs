@@ -29,12 +29,12 @@ export default function TakeNotes() {
   };
 
   const download = () => {
-    document.getElementById("dload").onclick = function () {
+    document.getElementById("downloadButton").onclick = function () {
       var l = document.createElement("a");
       l.href =
         "data:text/plain;charset=UTF-8," +
-        document.getElementById("dload-txt").value;
-      l.setAttribute("download", document.getElementById("dload-fn").value);
+        document.getElementById("textBox").value;
+      l.setAttribute("download", document.getElementById("textBox").value);
       l.click();
     };
   };
@@ -61,7 +61,10 @@ export default function TakeNotes() {
         <button className="btn btn-outline-dark mx-2" onClick={copyText}>
           Copy
         </button>
-        <button className="btn btn-outline-dark mx-2" onClick={removeExtraSpaces}>
+        <button
+          className="btn btn-outline-dark mx-2"
+          onClick={removeExtraSpaces}
+        >
           Remove Extra Spaces
         </button>
         <button className="btn btn-outline-dark mx-2" onClick={clearText}>

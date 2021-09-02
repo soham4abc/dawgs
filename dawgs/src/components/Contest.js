@@ -6,16 +6,16 @@ class Contests extends Component {
   render() {
     return (
       <div className="container">
-        <h1>Hello</h1>
+        <h1>Contests details</h1>
         <table class="table">
           <thead>
             <tr>
               <th scope="col">Competition</th>
               <th scope="col">Link</th>
 
+              <th scope="col">Platform</th>
               <th scope="col">Start Time</th>
               <th scope="col">End Time</th>
-              <th scope="col">Platform</th>
             </tr>
           </thead>
           <tbody>

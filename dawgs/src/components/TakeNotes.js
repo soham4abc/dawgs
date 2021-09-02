@@ -14,10 +14,10 @@ function TakeNotes() {
   return (
     <>
       <div>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-md-2" id="side-navbar"></div>
-            <div class="col-md-10" id="main-container">
+        <div className="container-fluid">
+          <div className="row">
+            <div className="col-md-2" id="side-navbar"></div>
+            <div className="col-md-10" id="main-container">
               <h2>Take Notes</h2>
               <body>
                 <textarea

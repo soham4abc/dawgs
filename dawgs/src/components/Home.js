@@ -5,7 +5,7 @@ import Display from "./Display";
 import Attendance from "./Attendance";
 import Pdf from "./Pdf";
 import Contests from "./Contest";
-
+import "./home.css";
 
 function Home() {
   return (

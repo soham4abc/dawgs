@@ -8,9 +8,10 @@
 }
 .m{
     background-color: khaki;
+    width: 100vw;
 }
 @media screen and (max-width:800px) {
-    .containerm{
+    .m{
         background-color: turquoise;
     }
 }

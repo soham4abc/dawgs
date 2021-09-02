@@ -11,7 +11,7 @@ function Home() {
   return (
     <>
       <Router>
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
               AppNameHere

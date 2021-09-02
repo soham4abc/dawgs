@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import UseGoogleSearch from "./googlesearch";
 
 function Searchmp3() {
   const [text, setText] = useState("");
@@ -14,6 +15,10 @@ function Searchmp3() {
     console.log(newText);
     navigator.clipboard.writeText(text.value);
   };
+  const texts=text+" filetype:mp3"
+    const {data} = UseGoogleSearch(texts);
+    console.log(data);
+    console.log(texts);
   return (
     <div className="container">
       <label htmlFor="inputPassword5" className="form-label">

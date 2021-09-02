@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import UseGoogleSearch from "./googlesearch";
 
 function Searchpdf() {
   const [text, setText] = useState("");
@@ -14,6 +15,12 @@ function Searchpdf() {
     console.log(newText);
     navigator.clipboard.writeText(text.value);
   };
+
+  const texts=text+" filetype:pdf"
+    const {data} = UseGoogleSearch(texts);
+    console.log(data);
+    console.log(texts);
+
   return (
     <>
       <div className="container">

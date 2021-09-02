@@ -13,7 +13,7 @@ function Home() {
       <Router>
         <nav className="navbar navbar-expand-lg navbar-light">
           <div className="container-fluid">
-              <h2>AppNameHere</h2>
+              <h2>studify</h2>
             <button
               className="navbar-toggler"
               type="button"

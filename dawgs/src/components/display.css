@@ -1,5 +1,16 @@
-/* .container{
+.carousel{
+    background-color: white;
+}
+.col-lg-4{
+    margin-bottom: 1.5rem;
     margin-top: 4rem;
-    margin-right: 10px;
-    
-} */
+    text-align: center;
+}
+.m{
+    background-color: khaki;
+}
+@media screen and (max-width:800px) {
+    .containerm{
+        background-color: turquoise;
+    }
+}

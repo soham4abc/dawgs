@@ -278,7 +278,7 @@ function display() {
       </div>
       <footer className="container">
         <p className="float-end">
-          <a href="/">
+          <a href="#">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="30"

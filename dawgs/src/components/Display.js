@@ -78,7 +78,7 @@ function display() {
           <span class="visually-hidden">Next</span>
         </button>
       </div>
-      <div class="container">
+      <div class="container my-5">
         <div class="row">
           <div class="col-lg-4">
             <img

@@ -1,43 +1,50 @@
-import React, { useState } from "react";
+import React from "react";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import Searchpdf from "./underPdf/Searchpdf";
+import Searchmp3 from "./underPdf/Searchmp3";
+import Searchmp4 from "./underPdf/Searchmp4";
 
 function Pdf() {
-  const [text, setText] = useState("");
-
-  const changeTextArea = (event) => {
-    setText(event.target.value);
-  };
-
-  const gSearch = () => {
-    let text = document.getElementById("searchKeyword");
-    text.select();
-    let newText = text.value + " filetype:pdf";
-    console.log(newText);
-    navigator.clipboard.writeText(text.value);
-  };
-
   return (
     <>
       <div className="container">
-        <label htmlFor="inputPassword5" className="form-label">
-          Search pdf in Google
-        </label>
-        <input
-          id="searchKeyword"
-          value={text}
-          className="form-control"
-          onChange={changeTextArea}
-          aria-describedby="passwordHelpBlock"
-        />
-        <div id="passwordHelpBlock" className="form-text">
-          You must enter some keywords which describes the pdf you want
-        </div>
-        <button
-          type="submit"
-          className="btn btn-primary my-3"
-          onClick={gSearch}
-        >
-          Submit
-        </button>
+        <h1 className="my-3">Select what you want to search</h1>
+        <Router>
+          <ul className="nav">
+            <li className="nav-item">
+              <a className="nav-link active" aria-current="page">
+                <button type="button" className="btn btn-outline-dark">
+                  <Link to="searchpdf">PDFs</Link>
+                </button>
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link">
+                <button type="button" className="btn btn-outline-dark">
+                  <Link to="searchmp3">MP3s</Link>
+                </button>
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link">
+                <button type="button" className="btn btn-outline-dark">
+                  <Link to="searchmp4">MP4s</Link>
+                </button>
+              </a>
+            </li>
+          </ul>
+          <Switch>
+            <Route path="/searchpdf">
+              <Searchpdf />
+            </Route>
+            <Route path="/searchmp3">
+              <Searchmp3 />
+            </Route>
+            <Route path="/searchmp4">
+              <Searchmp4 />
+            </Route>
+          </Switch>
+        </Router>
       </div>
     </>
   );

@@ -42,7 +42,7 @@ export default function TakeNotes() {
   return (
     <>
       <div className="container">
-        <h1>Notes Area</h1>
+        <h1 className="my-3">Notes Area</h1>
         <div className="mb-3">
           <textarea
             className="form-control"

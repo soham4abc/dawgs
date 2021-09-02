@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import UseGoogleSearch from "./googlesearch";
 
 function Searchmp3() {
   const [text, setText] = useState("");
@@ -8,21 +7,24 @@ function Searchmp3() {
     setText(event.target.value);
   };
 
+  const copyText = () => {
+    let text = document.getElementById("searchKeyword");
+    text.select();
+    navigator.clipboard.writeText(text.value);
+  };
+
   const gSearch = () => {
     let text = document.getElementById("searchKeyword");
     text.select();
     let newText = text.value + " filetype:mp3";
-    console.log(newText);
+    setText(newText);
     navigator.clipboard.writeText(text.value);
   };
-  const texts=text+" filetype:mp3"
-    const {data} = UseGoogleSearch(texts);
-    console.log(data);
-    console.log(texts);
+
   return (
     <div className="container">
-      <label htmlFor="inputPassword5" className="form-label">
-        Search mp3 in Google
+      <label htmlFor="inputPassword5" className="form-label my-3">
+      After submit, copy the result and search in google for desired result
       </label>
       <input
         id="searchKeyword"
@@ -34,8 +36,11 @@ function Searchmp3() {
       <div id="passwordHelpBlock" className="form-text">
         You must enter some keywords which describes the mp3 you want
       </div>
-      <button type="submit" className="btn btn-primary my-3" onClick={gSearch}>
+      <button type="submit" className="btn btn-outline-dark my-3" onClick={gSearch}>
         Submit
+      </button>
+      <button type="submit" className="btn btn-outline-dark my-3 mx-3" onClick={copyText}>
+        Copy
       </button>
     </div>
   );

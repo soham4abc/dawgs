@@ -1,12 +1,78 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    <img src="" alt="">
-</body>
+    <!-- <link rel="stylesheet" href="home.css"> -->
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .wrapper {
+        display: flex;
+        flex-direction: column;
+        background: #262626;
+        min-height: 8vh;
+      }
+      nav {
+        position: absolute;
+        /* top: 25%;
+        left: 25%;
+        transform: translate(-50%, -50%); */
+      }
+      nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      nav ul li {
+        display: inline-flex;
+      }
+      nav ul li a {
+        position: relative;
+        padding: 16px 0 5px;
+        margin: 0 25px;
+        color: aquamarine;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 16px;
+      }
+      nav ul li a:hover {
+        color: aqua;
+        transition: 0.9s;
+      }
+      nav ul li a:after {
+        content: "";
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%) scaleX(0);
+        -webkit-transform: translateX(-50%) scaleX(0);
+        -webkit-transform-origin: 50% 50%;
+        width: 100%;
+        height: 2px;
+        background-color: rgba(255, 255, 255, 0.9);
+        -webkit-transition: transform 250ms;
+        transition: transform 250ms;
+      }
+      nav ul li a:hover:after {
+        -webkit-transform: translateX(-50%) scaleX(1);
+        transform: translateX(-50%) scaleX(1);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </body>
 </html>

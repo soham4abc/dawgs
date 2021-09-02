@@ -13,9 +13,7 @@ function Home() {
       <Router>
         <nav className="navbar navbar-expand-lg navbar-light">
           <div className="container-fluid">
-            <a className="navbar-brand" href="/">
-              AppNameHere
-            </a>
+              <h2>AppNameHere</h2>
             <button
               className="navbar-toggler"
               type="button"
@@ -30,27 +28,27 @@ function Home() {
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav">
                 <li className="nav-item">
-                  <a className="nav-link active" aria-current="page" href="/">
+                  <a className="nav-link active" aria-current="page">
                     <Link to="display">Home</Link>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/">
-                    <Link to="googleSearch">SearchGoogle</Link>
+                  <a className="nav-link">
+                    <Link to="googleSearch">Search Google</Link>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/">
-                    <Link to="takeNotes">TakeNotes</Link>
+                  <a className="nav-link">
+                    <Link to="takeNotes">Take Notes</Link>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/">
+                  <a className="nav-link">
                    <Link to="contest">Contest</Link>
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/">
+                  <a className="nav-link">
                   <Link to="attendance">Attendance</Link>
                   </a>
                 </li>

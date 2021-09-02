@@ -4,7 +4,6 @@ import TakeNotes from "./TakeNotes";
 import Display from "./Display";
 import Attendance from "./Attendance";
 import Pdf from "./Pdf";
-import Music from "./Music";
 import Contests from "./Contest";
 
 
@@ -37,7 +36,7 @@ function Home() {
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="/">
-                    <Link to="pdf">SearchPdf</Link>
+                    <Link to="googleSearch">SearchGoogle</Link>
                   </a>
                 </li>
                 <li className="nav-item">
@@ -48,11 +47,6 @@ function Home() {
                 <li className="nav-item">
                   <a className="nav-link" href="/">
                    <Link to="contest">Contest</Link>
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a className="nav-link" href="/">
-                  <Link to="music">Music</Link>
                   </a>
                 </li>
                 <li className="nav-item">
@@ -74,13 +68,10 @@ function Home() {
           <Route path="/contest">
             <Contests />
           </Route>
-          <Route path="/music">
-            <Music />
-          </Route>
           <Route path="/attendance">
             <Attendance />
           </Route>
-          <Route path="/pdf">
+          <Route path="/googleSearch">
             <Pdf />
           </Route>
         </Switch>

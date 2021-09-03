@@ -1,0 +1,37 @@
+[
+      {
+            "id": 1,
+            "imagename": "Elon Musk",
+            "imagepath": "https://static.dezeen.com/uploads/2021/06/elon-musk-architect_dezeen_1704_col_1.jpg",
+            "roll": 2,
+            "dept": "CSE"
+      },
+      {
+            "id": 2,
+            "imagename": "Bill Gates",
+            "imagepath": "https://content.fortune.com/wp-content/uploads/2020/09/CNV.10.20.FORTUNE_BILL_AND_MELINDA_GATES_030-vertical.jpg",
+            "roll": 65,
+            "dept": "65"
+      },
+      {
+            "id": 3,
+            "imagename": "Satya Nandella",
+            "imagepath": "https://media.wired.com/photos/5cd03fc84ef5ad318eea3885/master/w_2560%2Cc_limit/microsoft-3590.jpg",
+            "roll": 28,
+            "dept": "CSE"
+      },
+      {
+            "id": 45,
+            "imagename": "Ratan Tata",
+            "imagepath": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2Fb0c032466eb88b109f20d7d9f6b4e0a8%2F0x0.jpg",
+            "roll": 2,
+            "dept": "Cse"
+      },
+      {
+            "id": 70,
+            "imagename": "Warren buffet",
+            "imagepath": "https://photos5.appleinsider.com/gallery/41760-80988-40551-78134-34561-62472-warren-buffet-head-xl-xl-xl.jpg",
+            "roll": 45,
+            "dept": "CSE"
+      }
+]

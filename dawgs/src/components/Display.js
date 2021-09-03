@@ -248,7 +248,7 @@ function display() {
 
           <hr className="featurette-divider" />
         </div>
-        <footer className="container">
+        {/* <footer className="container">
           <p className="float-end">
             <a href="#">
               <svg
@@ -269,7 +269,7 @@ function display() {
           <p>
             © 2021 made with love
           </p>
-        </footer>
+        </footer> */}
       </main>
     </>
   );

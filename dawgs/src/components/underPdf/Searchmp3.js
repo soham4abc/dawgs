@@ -7,29 +7,25 @@ function Searchmp3() {
     setText(event.target.value);
   };
 
-  const copyText = () => {
-    let text = document.getElementById("searchKeyword");
-    text.select();
-    navigator.clipboard.writeText(text.value);
+  const clearText = () => {
+    let newText = "";
+    setText(newText);
   };
 
   const gSearch = () => {
     let text = document.getElementById("searchKeyword");
     text.select();
-    let newText = text.value + " filetype:mp3";
-    //setText(newText);
     navigator.clipboard.writeText(text.value);
-    let sertxt="https://www.google.com/search?q=";
-    text=sertxt+text.value;
-    text=text+"+filetype%3Amp3";
-    console.log(text);
-    window.location.href = text;
+    let sertxt = "https://www.google.com/search?q=";
+    text = sertxt + text.value;
+    text = text + "+filetype%3Amp3";
+    window.open(text, "_blank");
   };
 
   return (
     <div className="container">
       <label htmlFor="inputPassword5" className="form-label my-3">
-      After submit, copy the result and search in google for desired result
+        Optimised Google search, get only what you want!
       </label>
       <input
         id="searchKeyword"
@@ -41,12 +37,20 @@ function Searchmp3() {
       <div id="passwordHelpBlock" className="form-text">
         You must enter some keywords which describes the mp3 you want
       </div>
-      <button type="submit" className="btn btn-outline-dark my-3" onClick={gSearch}>
-        Submit
+      <button
+        type="submit"
+        className="btn btn-outline-dark my-3"
+        onClick={gSearch}
+      >
+        Search
       </button>
-      
-      <button type="submit" className="btn btn-outline-dark my-3 mx-3" onClick={copyText}>
-        Copy
+
+      <button
+        type="submit"
+        className="btn btn-outline-dark my-3 mx-3"
+        onClick={clearText}
+      >
+        Clear
       </button>
     </div>
   );

@@ -7,30 +7,26 @@ function Searchpdf() {
     setText(event.target.value);
   };
 
-  const copyText = () => {
-    let text = document.getElementById("searchKeyword");
-    text.select();
-    navigator.clipboard.writeText(text.value);
+  const clearText = () => {
+    let newText = "";
+    setText(newText);
   };
 
   const gSearch = () => {
     let text = document.getElementById("searchKeyword");
     text.select();
-    let newText = text.value + " filetype:pdf";
-    //setText(newText);
     navigator.clipboard.writeText(text.value);
-    let sertxt="https://www.google.com/search?q=";
-    text=sertxt+text.value;
-    text=text+"+filetype%3Apdf";
-    console.log(text);
-    window.location.href = text;
+    let sertxt = "https://www.google.com/search?q=";
+    text = sertxt + text.value;
+    text = text + "+filetype%3Apdf";
+    window.open(text, "_blank");
   };
 
   return (
     <>
       <div className="container">
         <label htmlFor="inputPassword5" className="form-label my-3">
-        After submit, copy the result and search in google for desired result
+          Optimised Google search, get only what you want!
         </label>
         <input
           id="searchKeyword"
@@ -47,14 +43,14 @@ function Searchpdf() {
           className="btn btn-outline-dark my-3"
           onClick={gSearch}
         >
-          Submit
+          Search
         </button>
         <button
           type="submit"
           className="btn btn-outline-dark my-3 mx-3"
-          onClick={copyText}
+          onClick={clearText}
         >
-          Copy
+          Clear
         </button>
       </div>
     </>

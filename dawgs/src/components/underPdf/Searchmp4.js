@@ -17,8 +17,13 @@ function Searchmp4() {
     let text = document.getElementById("searchKeyword");
     text.select();
     let newText = text.value + " filetype:mp4";
-    setText(newText);
+    //setText(newText);
     navigator.clipboard.writeText(text.value);
+    let sertxt="https://www.google.com/search?q=";
+    text=sertxt+text.value;
+    text=text+"+filetype%3Amp4";
+    console.log(text);
+    window.location.href = text;
   };
 
   return (

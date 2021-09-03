@@ -17,8 +17,13 @@ function Searchmp3() {
     let text = document.getElementById("searchKeyword");
     text.select();
     let newText = text.value + " filetype:mp3";
-    setText(newText);
+    //setText(newText);
     navigator.clipboard.writeText(text.value);
+    let sertxt="https://www.google.com/search?q=";
+    text=sertxt+text.value;
+    text=text+"+filetype%3Amp3";
+    console.log(text);
+    window.location.href = text;
   };
 
   return (
@@ -39,6 +44,7 @@ function Searchmp3() {
       <button type="submit" className="btn btn-outline-dark my-3" onClick={gSearch}>
         Submit
       </button>
+      
       <button type="submit" className="btn btn-outline-dark my-3 mx-3" onClick={copyText}>
         Copy
       </button>

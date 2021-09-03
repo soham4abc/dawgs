@@ -1,714 +1,734 @@
 
 
 [
-    {
-      "name": "ProjectEuler+",
-      "url": "https://hackerrank.com/contests/projecteuler",
-      "start_time": "2014-07-07  5:38:00",
-      "end_time": "2024-07-30  8:30:00",
-      "duration": "317616720.0",
-      "site": "HackerRank",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Past ZCO Problems",
-      "url": "https://www.codechef.com/ZCOPRAC?itm_campaign=contest_listing",
-      "start_time": "2018-11-04  8:30:00",
-      "end_time": "2024-04-26  8:30:00",
-      "duration": "172800000.0",
-      "site": "CodeChef",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Past INOI Problems",
-      "url": "https://www.codechef.com/INOIPRAC?itm_campaign=contest_listing",
-      "start_time": "2019-01-04  8:30:00",
-      "end_time": "2024-06-26  8:30:00",
-      "duration": "172800000.0",
-      "site": "CodeChef",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "IARCS OPC Judge Problems",
-      "url": "https://www.codechef.com/IARCSJUD?itm_campaign=contest_listing",
-      "start_time": "2019-10-08  8:30:00",
-      "end_time": "2021-10-07  1:30:00",
-      "duration": "63082800.0",
-      "site": "CodeChef",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "DSA Learning Series",
-      "url": "https://www.codechef.com/LEARNDSA?itm_campaign=contest_listing",
-      "start_time": "2020-03-29  8:30:00",
-      "end_time": "2022-03-29  8:30:00",
-      "duration": "63072000.0",
-      "site": "CodeChef",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "AIM ICPC - Weekly Training Series",
-      "url": "https://www.codechef.com/AIMICPC?itm_campaign=contest_listing",
-      "start_time": "2020-12-28  8:30:00",
-      "end_time": "2023-06-16  8:30:00",
-      "duration": "77760000.0",
-      "site": "CodeChef",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Clevertap Mobile Tech Engineer/Specialist Hiring Challenge-Round 1",
-      "url": "https://www.hackerearth.com/challenges/hiring/clevertap-hiring-challenge-round-1/",
-      "start_time": "2021-07-30  2:30:00",
-      "end_time": "2021-09-05  8:25:00",
-      "duration": "3218100.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Build Tomorrow",
-      "url": "https://www.hackerearth.com/challenges/hackathon/build-tomorrow-a-weavy-hackathon/",
-      "start_time": "2021-08-10  2:00:00",
-      "end_time": "2021-09-11  1:55:00",
-      "duration": "2764500.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "A Perfect Fit : HackerEarth Machine Learning Challenge",
-      "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-resume-shortlisting/",
-      "start_time": "2021-08-11  3:30:00",
-      "end_time": "2021-09-10  3:30:00",
-      "duration": "2592000.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Digital Innovation Hackathon",
-      "url": "https://www.hackerearth.com/challenges/hackathon/aws-india-digital-innovation-hackathon/",
-      "start_time": "2021-08-12  2:30:00",
-      "end_time": "2021-09-05  8:25:00",
-      "duration": "2094900.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "AAP Lead Software Developer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/aap-lead-software-developer-hiring-challenge/",
-      "start_time": "2021-08-13  2:30:00",
-      "end_time": "2021-09-05  8:25:00",
-      "duration": "2008500.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Hack 2021 - Fall Edition",
-      "url": "https://www.hackerearth.com/challenges/hackathon/hack-2021-2/",
-      "start_time": "2021-08-16  4:00:00",
-      "end_time": "2021-09-14  4:00:00",
-      "duration": "2505600.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Hack X",
-      "url": "https://www.hackerearth.com/challenges/hackathon/hack-x/",
-      "start_time": "2021-08-23  7:00:00",
-      "end_time": "2021-09-09  6:55:00",
-      "duration": "1468500.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Cogito Data Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/cogito-data-engineer-hiring-challenge/",
-      "start_time": "2021-08-27  2:30:00",
-      "end_time": "2021-09-05  8:25:00",
-      "duration": "798900.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Full Stack Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/cambium-networks-full-stack-developer-hiring-challenge/",
-      "start_time": "2021-08-27  2:30:00",
-      "end_time": "2021-09-12  8:25:00",
-      "duration": "1403700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Site Reliability Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/cambium-networks-site-reliability-engineer-hiring-challenge/",
-      "start_time": "2021-08-27  2:30:00",
-      "end_time": "2021-09-12  8:25:00",
-      "duration": "1403700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "KeepTruckin Backend Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/keeptruckin-backend-engineer-hiring-challenge/",
-      "start_time": "2021-08-27  2:30:00",
-      "end_time": "2021-09-05  8:25:00",
-      "duration": "798900.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "Hack of PI",
-      "url": "https://hack-of-pi.hackerearth.com/",
-      "start_time": "2021-09-01  3:30:00",
-      "end_time": "2021-09-16  8:29:00",
-      "duration": "1349940.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "CODING"
-    },
-    {
-      "name": "SRM 812",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2021-09-02  1:00:00",
-      "end_time": "2021-09-02  3:00:00",
-      "duration": "7200.0",
-      "site": "TopCoder",
-      "in_24_hours": "Yes",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Hack-a-Teen by FamPay",
-      "url": "https://fampay.hackerearth.com/",
-      "start_time": "2021-09-02  4:30:00",
-      "end_time": "2021-09-05  4:30:00",
-      "duration": "295200.0",
-      "site": "HackerEarth",
-      "in_24_hours": "Yes",
-      "status": "BEFORE"
-    },
-    {
-      "name": "AlgoManiac - Code For Future (Rated for Div 3)",
-      "url": "https://www.codechef.com/CDMN2021?itm_campaign=contest_listing",
-      "start_time": "2021-09-02  4:30:00",
-      "end_time": "2021-09-02  7:30:00",
-      "duration": "10800.0",
-      "site": "CodeChef",
-      "in_24_hours": "Yes",
-      "status": "BEFORE"
-    },
-    {
-      "name": "September Challenge 2021 (Rated for Div 3)",
-      "url": "https://www.codechef.com/SEP  1?itm_campaign=contest_listing",
-      "start_time": "2021-09-03  9:30:00",
-      "end_time": "2021-09-13  9:30:00",
-      "duration": "864000.0",
-      "site": "CodeChef",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "September Easy '21",
-      "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-sept-easy-21/",
-      "start_time": "2021-09-04  4:00:00",
-      "end_time": "2021-09-04  7:00:00",
-      "duration": "10800.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "AtCoder Beginner Contest 217",
-      "url": "https://atcoder.jp/contests/abc217",
-      "start_time": "2021-09-04  2:00:00",
-      "end_time": "2021-09-04  3:40:00",
-      "duration": "6000",
-      "site": "AtCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Biweekly Contest 60",
-      "url": "https://leetcode.com/contest/biweekly-contest-60",
-      "start_time": "2021-09-04  4:30:00",
-      "end_time": "2021-09-04  6:00:00",
-      "duration": "5400",
-      "site": "LeetCode",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Weekly Contest 257",
-      "url": "https://leetcode.com/contest/weekly-contest-257",
-      "start_time": "2021-09-05  2:30:00",
-      "end_time": "2021-09-05  4:00:00",
-      "duration": "5400",
-      "site": "LeetCode",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "RECRUIT Nihonbashi Half Marathon 2021 (long)",
-      "url": "https://atcoder.jp/contests/rcl-contest-2021-long",
-      "start_time": "2021-09-05  9:00:00",
-      "end_time": "2021-09-12  9:00:00",
-      "duration": "604800",
-      "site": "AtCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Codeforces Round #742 (Div. 2)",
-      "url": "https://codeforces.com/contestRegistration/1567",
-      "start_time": "2021-09-05  4:35:00",
-      "end_time": "2021-09-05  6:35:00",
-      "duration": "7200",
-      "site": "CodeForces",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "AOTMP® Industry Hackathon",
-      "url": "https://www.hackerearth.com/challenges/hackathon/aotmp-industry-hackathon/",
-      "start_time": "2021-09-06  5:00:00",
-      "end_time": "2021-10-01  4:59:00",
-      "duration": "2159940.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Mercedes-Benz Python Developer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/python-developer-hiring-challenge/",
-      "start_time": "2021-09-10  4:30:00",
-      "end_time": "2021-09-19  8:25:00",
-      "duration": "827700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Lead Development Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/cambium-networks-lead-developer-hiring-challenge/",
-      "start_time": "2021-09-10  2:30:00",
-      "end_time": "2021-09-26  8:25:00",
-      "duration": "1403700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Altir Software Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/altir-software-engineer-hiring-challenge/",
-      "start_time": "2021-09-10  2:30:00",
-      "end_time": "2021-09-26  8:25:00",
-      "duration": "1403700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "ThoughtWorks Data Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/thoughtworks-data-engineer-hiring-challenge-2021/",
-      "start_time": "2021-09-10  2:30:00",
-      "end_time": "2021-09-19  8:25:00",
-      "duration": "798900.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "ThoughtsWorks Women Graduate Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/thoughtworks-women-grad-engineer-hiring-challenge/",
-      "start_time": "2021-09-10  2:30:00",
-      "end_time": "2021-09-19  8:25:00",
-      "duration": "798900.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Data Structures and Algorithms Coding Contest",
-      "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-sept-21-data-structures-algorithms/",
-      "start_time": "2021-09-11  4:00:00",
-      "end_time": "2021-09-11  5:30:00",
-      "duration": "5400.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "AtCoder Beginner Contest 218",
-      "url": "https://atcoder.jp/contests/abc218",
-      "start_time": "2021-09-11  2:00:00",
-      "end_time": "2021-09-11  3:40:00",
-      "duration": "6000",
-      "site": "AtCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Codeforces Global Round 16",
-      "url": "https://codeforces.com/contestRegistration/1566",
-      "start_time": "2021-09-12  4:35:00",
-      "end_time": "2021-09-12  7:20:00",
-      "duration": "9900",
-      "site": "CodeForces",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Rally to Tally",
-      "url": "https://www.hackerearth.com/challenges/hackathon/mitsubishi-americas-hackathon/",
-      "start_time": "2021-09-13  7:00:00",
-      "end_time": "2021-09-25  6:59:00",
-      "duration": "1036740.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Marathon Match 129",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2021-09-15  7:00:00",
-      "end_time": "2021-09-22  7:00:00",
-      "duration": "604800.0",
-      "site": "TopCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Beckn-a-thon",
-      "url": "https://beckn-a-thon.hackerearth.com/",
-      "start_time": "2021-09-17  0:30:00",
-      "end_time": "2021-10-03  8:29:00",
-      "duration": "1447140.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Tractor Supply’s “Life out Here” AI/ML Hackathon",
-      "url": "https://www.hackerearth.com/challenges/hackathon/tractor-supply-hackathon/",
-      "start_time": "2021-09-17  5:00:00",
-      "end_time": "2021-09-28  4:59:00",
-      "duration": "950340.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "MishiPay Software Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/mishipay-software-engineer-hiring-challenge/",
-      "start_time": "2021-09-17  2:30:00",
-      "end_time": "2021-09-26  8:25:00",
-      "duration": "798900.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Airtel She Codes Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/airtel-she-codes-hiring-challenge/",
-      "start_time": "2021-09-17  2:30:00",
-      "end_time": "2021-10-03  8:25:00",
-      "duration": "1403700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "SRM 813",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2021-09-17  5:00:00",
-      "end_time": "2021-09-17  7:00:00",
-      "duration": "7200.0",
-      "site": "TopCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "AtCoder Beginner Contest 219（Sciseed Programming Contest 2021）",
-      "url": "https://atcoder.jp/contests/abc219",
-      "start_time": "2021-09-18  2:00:00",
-      "end_time": "2021-09-18  3:40:00",
-      "duration": "6000",
-      "site": "AtCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Code Divas Diversity Challenge 2021",
-      "url": "https://www.hackerearth.com/challenges/hiring/code-divas-diversity-challenge-2021/",
-      "start_time": "2021-09-18  2:30:00",
-      "end_time": "2021-09-18  8:25:00",
-      "duration": "21300.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Round F 2021",
-      "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
-      "start_time": "2021-09-18  7:00:00",
-      "end_time": "2021-09-18  0:00:00",
-      "duration": "10800.0",
-      "site": "Kick Start",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "AtCoder Regular Contest 126",
-      "url": "https://atcoder.jp/contests/arc126",
-      "start_time": "2021-09-19  2:00:00",
-      "end_time": "2021-09-19  4:00:00",
-      "duration": "7200",
-      "site": "AtCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "September Cook-Off 2021",
-      "url": "https://www.codechef.com/COOK133?itm_campaign=contest_listing",
-      "start_time": "2021-09-19  6:00:00",
-      "end_time": "2021-09-19  8:30:00",
-      "duration": "9000.0",
-      "site": "CodeChef",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "EY GDS Hackpions 3.0",
-      "url": "https://www.hackerearth.com/challenges/hackathon/ey-gds-hackpions-30/",
-      "start_time": "2021-09-20  2:30:00",
-      "end_time": "2021-10-13  8:25:00",
-      "duration": "2008500.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "American Express CodeStreet'21",
-      "url": "https://codestreet-2021.hackerearth.com/",
-      "start_time": "2021-09-23  8:30:00",
-      "end_time": "2021-10-08  8:29:00",
-      "duration": "1295940.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "{Crack the Code} with DP World",
-      "url": "https://www.hackerearth.com/challenges/hiring/crack-the-code-with-dp-world/",
-      "start_time": "2021-09-24  9:30:00",
-      "end_time": "2021-09-26  8:25:00",
-      "duration": "204900.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Innovation Challenge",
-      "url": "https://accenture-innovation-challenge-2021.hackerearth.com/",
-      "start_time": "2021-09-24  2:30:00",
-      "end_time": "2021-10-10  8:25:00",
-      "duration": "1403700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Tech Mahindra Java Full Stack Software Engineer Hiring Challenge",
-      "url": "https://www.hackerearth.com/challenges/hiring/tech-mahindra-java-full-stack-software-engineer-hiring-challenge/",
-      "start_time": "2021-09-24  2:30:00",
-      "end_time": "2021-10-10  8:25:00",
-      "duration": "1403700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "City Command with Maps & Location Info Hackathon by NEC and Mitsubishi Corporation",
-      "url": "https://www.hackerearth.com/challenges/hackathon/city-command-with-maps-location-info-hackathon-by-nec-and-mitsubishi-corporation/",
-      "start_time": "2021-09-25  3:30:00",
-      "end_time": "2021-09-26  0:30:00",
-      "duration": "111600.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Reimagine <Future> Hackathon",
-      "url": "https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/",
-      "start_time": "2021-09-25  4:30:00",
-      "end_time": "2021-10-24  8:25:00",
-      "duration": "2555700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "September Lunchtime 2021",
-      "url": "https://www.codechef.com/LTIM100?itm_campaign=contest_listing",
-      "start_time": "2021-09-25  4:00:00",
-      "end_time": "2021-09-25  7:00:00",
-      "duration": "10800.0",
-      "site": "CodeChef",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "SRM 814",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2021-09-30  1:00:00",
-      "end_time": "2021-09-30  3:00:00",
-      "duration": "7200.0",
-      "site": "TopCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Prasaga Use Case Ideathon",
-      "url": "https://www.hackerearth.com/challenges/hackathon/prasaga-use-case-ideathon/",
-      "start_time": "2021-09-30  8:00:00",
-      "end_time": "2021-10-18  7:59:00",
-      "duration": "1555140.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Criterion 2021 Round 14",
-      "url": "https://toph.co/c/criterion-2021-round-14",
-      "start_time": "2021-10-01  3:00:00",
-      "end_time": "2021-10-01  3:00:00",
-      "duration": "0.0",
-      "site": "Toph",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Round G 2021",
-      "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
-      "start_time": "2021-10-16  2:00:00",
-      "end_time": "2021-10-16  5:00:00",
-      "duration": "10800.0",
-      "site": "Kick Start",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Smart Home - Sensors and Analytics Hackathon",
-      "url": "https://www.hackerearth.com/challenges/hackathon/hack-iot/",
-      "start_time": "2021-10-18  8:00:00",
-      "end_time": "2021-11-13  7:59:00",
-      "duration": "2246340.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Criterion 2021 Round 15",
-      "url": "https://toph.co/c/criterion-2021-round-15",
-      "start_time": "2021-10-22  3:00:00",
-      "end_time": "2021-10-22  3:00:00",
-      "duration": "0.0",
-      "site": "Toph",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Route Mobile RAPID Hackathon",
-      "url": "https://www.hackerearth.com/challenges/hackathon/routemobile-rapid-hackathon/",
-      "start_time": "2021-10-29  2:30:00",
-      "end_time": "2021-11-14  8:25:00",
-      "duration": "1403700.0",
-      "site": "HackerEarth",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "Round H 2021",
-      "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
-      "start_time": "2021-11-14  3:00:00",
-      "end_time": "2021-11-14  6:00:00",
-      "duration": "10800.0",
-      "site": "Kick Start",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "TCO22 Algorithm Round 1A",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2022-04-16  6:00:00",
-      "end_time": "2022-04-16  8:00:00",
-      "duration": "7200.0",
-      "site": "TopCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "TCO22 Algorithm Round 1B",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2022-04-27  1:00:00",
-      "end_time": "2022-04-27  3:00:00",
-      "duration": "7200.0",
-      "site": "TopCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "TCO22 Algorithm Round 2A",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2022-05-21  6:00:00",
-      "end_time": "2022-05-21  8:00:00",
-      "duration": "7200.0",
-      "site": "TopCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "TCO22 Algorithm Round 2B",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2022-06-01  1:00:00",
-      "end_time": "2022-06-01  3:00:00",
-      "duration": "7200.0",
-      "site": "TopCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "TCO22 Algorithm Round 3",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2022-07-07  1:00:00",
-      "end_time": "2022-07-07  3:00:00",
-      "duration": "7200.0",
-      "site": "TopCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    },
-    {
-      "name": "TCO22 Algorithm Round 4",
-      "url": "https://www.topcoder.com/challenges",
-      "start_time": "2022-07-30  6:00:00",
-      "end_time": "2022-07-30  8:00:00",
-      "duration": "7200.0",
-      "site": "TopCoder",
-      "in_24_hours": "No",
-      "status": "BEFORE"
-    }
-  ]
+  {
+    "name": "ProjectEuler+",
+    "url": "https://hackerrank.com/contests/projecteuler",
+    "start_time": "2014-07-07  5:38  ",
+    "end_time": "2024-07-30  8:30  ",
+    "duration": "317616720.0",
+    "site": "HackerRank",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Past ZCO Problems",
+    "url": "https://www.codechef.com/ZCOPRAC?itm_campaign=contest_listing",
+    "start_time": "2018-11-04  8:30  ",
+    "end_time": "2024-04-26  8:30  ",
+    "duration": "172800000.0",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Past INOI Problems",
+    "url": "https://www.codechef.com/INOIPRAC?itm_campaign=contest_listing",
+    "start_time": "2019-01-04  8:30  ",
+    "end_time": "2024-06-26  8:30  ",
+    "duration": "172800000.0",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "IARCS OPC Judge Problems",
+    "url": "https://www.codechef.com/IARCSJUD?itm_campaign=contest_listing",
+    "start_time": "2019-10-08  8:30  ",
+    "end_time": "2021-10-07  1:30  ",
+    "duration": "63082800.0",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "DSA Learning Series",
+    "url": "https://www.codechef.com/LEARNDSA?itm_campaign=contest_listing",
+    "start_time": "2020-03-29  8:30  ",
+    "end_time": "2022-03-29  8:30  ",
+    "duration": "63072000.0",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "AIM ICPC - Weekly Training Series",
+    "url": "https://www.codechef.com/AIMICPC?itm_campaign=contest_listing",
+    "start_time": "2020-12-28  8:30  ",
+    "end_time": "2023-06-16  8:30  ",
+    "duration": "77760000.0",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Clevertap Mobile Tech Engineer/Specialist Hiring Challenge-Round 1",
+    "url": "https://www.hackerearth.com/challenges/hiring/clevertap-hiring-challenge-round-1/",
+    "start_time": "2021-07-30  2:30  ",
+    "end_time": "2021-09-05  8:25  ",
+    "duration": "3218100.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Build Tomorrow",
+    "url": "https://www.hackerearth.com/challenges/hackathon/build-tomorrow-a-weavy-hackathon/",
+    "start_time": "2021-08-10  2:00  ",
+    "end_time": "2021-09-11  1:55  ",
+    "duration": "2764500.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "A Perfect Fit : HackerEarth Machine Learning Challenge",
+    "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-resume-shortlisting/",
+    "start_time": "2021-08-11  3:30  ",
+    "end_time": "2021-09-10  3:30  ",
+    "duration": "2592000.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Digital Innovation Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/aws-india-digital-innovation-hackathon/",
+    "start_time": "2021-08-12  2:30  ",
+    "end_time": "2021-09-05  8:25  ",
+    "duration": "2094900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "AAP Lead Software Developer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/aap-lead-software-developer-hiring-challenge/",
+    "start_time": "2021-08-13  2:30  ",
+    "end_time": "2021-09-05  8:25  ",
+    "duration": "2008500.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Hack 2021 - Fall Edition",
+    "url": "https://www.hackerearth.com/challenges/hackathon/hack-2021-2/",
+    "start_time": "2021-08-16  4:00  ",
+    "end_time": "2021-09-14  4:00  ",
+    "duration": "2505600.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Hack X",
+    "url": "https://www.hackerearth.com/challenges/hackathon/hack-x/",
+    "start_time": "2021-08-23 07:00  ",
+    "end_time": "2021-09-09 06:55  ",
+    "duration": "1468500.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Cogito Data Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/cogito-data-engineer-hiring-challenge/",
+    "start_time": "2021-08-27  2:30  ",
+    "end_time": "2021-09-05  8:25  ",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Full Stack Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/cambium-networks-full-stack-developer-hiring-challenge/",
+    "start_time": "2021-08-27  2:30  ",
+    "end_time": "2021-09-12  8:25  ",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Site Reliability Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/cambium-networks-site-reliability-engineer-hiring-challenge/",
+    "start_time": "2021-08-27  2:30  ",
+    "end_time": "2021-09-12  8:25  ",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "KeepTruckin Backend Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/keeptruckin-backend-engineer-hiring-challenge/",
+    "start_time": "2021-08-27  2:30  ",
+    "end_time": "2021-09-05  8:25  ",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Hack of PI",
+    "url": "https://hack-of-pi.hackerearth.com/",
+    "start_time": "2021-09-01 03:30  ",
+    "end_time": "2021-09-16  8:29  ",
+    "duration": "1349940.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "Hack-a-Teen by FamPay",
+    "url": "https://fampay.hackerearth.com/",
+    "start_time": "2021-09-02 04:30  ",
+    "end_time": "2021-09-05  4:30  ",
+    "duration": "295200.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "CODING"
+  },
+  {
+    "name": "September Challenge 2021 (Rated for Div 3)",
+    "url": "https://www.codechef.com/SEP  1?itm_campaign=contest_listing",
+    "start_time": "2021-09-03 09:30  ",
+    "end_time": "2021-09-13 09:30  ",
+    "duration": "864000.0",
+    "site": "CodeChef",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+  },
+  {
+    "name": "SnackDown Practice Contest: Beginner",
+    "url": "https://www.codechef.com/SDPCB21?itm_campaign=contest_listing",
+    "start_time": "2021-09-04 02:30  ",
+    "end_time": "2021-09-18 02:30  ",
+    "duration": "1209600.0",
+    "site": "CodeChef",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+  },
+  {
+    "name": "September Easy '21",
+    "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-sept-easy-21/",
+    "start_time": "2021-09-04 04:00  ",
+    "end_time": "2021-09-04 07:00  ",
+    "duration": "10800.0",
+    "site": "HackerEarth",
+    "in_24_hours": "Yes",
+    "status": "BEFORE"
+  },
+  {
+    "name": "AtCoder Beginner Contest 217",
+    "url": "https://atcoder.jp/contests/abc217",
+    "start_time": "2021-09-04  2:00  ",
+    "end_time": "2021-09-04  3:40  ",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Biweekly Contest 60",
+    "url": "https://leetcode.com/contest/biweekly-contest-60",
+    "start_time": "2021-09-04  4:30  ",
+    "end_time": "2021-09-04  6:00  ",
+    "duration": "5400",
+    "site": "LeetCode",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Weekly Contest 257",
+    "url": "https://leetcode.com/contest/weekly-contest-257",
+    "start_time": "2021-09-05 02:30  ",
+    "end_time": "2021-09-05 04:00  ",
+    "duration": "5400",
+    "site": "LeetCode",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "RECRUIT Nihonbashi Half Marathon 2021 (long)",
+    "url": "https://atcoder.jp/contests/rcl-contest-2021-long",
+    "start_time": "2021-09-05 09:00  ",
+    "end_time": "2021-09-12 09:00  ",
+    "duration": "604800",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Codeforces Round #742 (Div. 2)",
+    "url": "https://codeforces.com/contestRegistration/1567",
+    "start_time": "2021-09-05  4:35  ",
+    "end_time": "2021-09-05  6:35  ",
+    "duration": "7200",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "AOTMP® Industry Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/aotmp-industry-hackathon/",
+    "start_time": "2021-09-06 05:00  ",
+    "end_time": "2021-10-01 04:59  ",
+    "duration": "2159940.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Mercedes-Benz Python Developer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/python-developer-hiring-challenge/",
+    "start_time": "2021-09-10 04:30  ",
+    "end_time": "2021-09-19  8:25  ",
+    "duration": "827700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Lead Development Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/cambium-networks-lead-developer-hiring-challenge/",
+    "start_time": "2021-09-10  2:30  ",
+    "end_time": "2021-09-26  8:25  ",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Altir Software Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/altir-software-engineer-hiring-challenge/",
+    "start_time": "2021-09-10  2:30  ",
+    "end_time": "2021-09-26  8:25  ",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "ThoughtWorks Data Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/thoughtworks-data-engineer-hiring-challenge-2021/",
+    "start_time": "2021-09-10  2:30  ",
+    "end_time": "2021-09-19  8:25  ",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "ThoughtsWorks Women Graduate Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/thoughtworks-women-grad-engineer-hiring-challenge/",
+    "start_time": "2021-09-10  2:30  ",
+    "end_time": "2021-09-19  8:25  ",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Data Structures and Algorithms Coding Contest",
+    "url": "https://www.hackerearth.com/challenges/competitive/hackerearth-sept-21-data-structures-algorithms/",
+    "start_time": "2021-09-11 04:00  ",
+    "end_time": "2021-09-11 05:30  ",
+    "duration": "5400.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "AtCoder Beginner Contest 218",
+    "url": "https://atcoder.jp/contests/abc218",
+    "start_time": "2021-09-11  2:00  ",
+    "end_time": "2021-09-11  3:40  ",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Codeforces Global Round 16",
+    "url": "https://codeforces.com/contestRegistration/1566",
+    "start_time": "2021-09-12  4:35  ",
+    "end_time": "2021-09-12  7:20  ",
+    "duration": "9900",
+    "site": "CodeForces",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Rally to Tally",
+    "url": "https://www.hackerearth.com/challenges/hackathon/mitsubishi-americas-hackathon/",
+    "start_time": "2021-09-13 07:00  ",
+    "end_time": "2021-09-25 06:59  ",
+    "duration": "1036740.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "CodeChef Starters 11 (Rated for Div 3)",
+    "url": "https://www.codechef.com/STAR  1?itm_campaign=contest_listing",
+    "start_time": "2021-09-15  4:30  ",
+    "end_time": "2021-09-15  7:30  ",
+    "duration": "10800.0",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Marathon Match 129",
+    "url": "https://www.topcoder.com/challenges",
+    "start_time": "2021-09-15  7:00  ",
+    "end_time": "2021-09-22  7:00  ",
+    "duration": "604800.0",
+    "site": "TopCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Beckn-a-thon",
+    "url": "https://beckn-a-thon.hackerearth.com/",
+    "start_time": "2021-09-17 00:30  ",
+    "end_time": "2021-10-03  8:29  ",
+    "duration": "1447140.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Tractor Supply’s “Life out Here” AI/ML Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/tractor-supply-hackathon/",
+    "start_time": "2021-09-17 05:00  ",
+    "end_time": "2021-09-28 04:59  ",
+    "duration": "950340.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "MishiPay Software Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/mishipay-software-engineer-hiring-challenge/",
+    "start_time": "2021-09-17  2:30  ",
+    "end_time": "2021-09-26  8:25  ",
+    "duration": "798900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Airtel She Codes Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/airtel-she-codes-hiring-challenge/",
+    "start_time": "2021-09-17  2:30  ",
+    "end_time": "2021-10-03  8:25  ",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "SRM 813",
+    "url": "https://www.topcoder.com/challenges",
+    "start_time": "2021-09-17  5:00  ",
+    "end_time": "2021-09-17  7:00  ",
+    "duration": "7200.0",
+    "site": "TopCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "AtCoder Beginner Contest 219（Sciseed Programming Contest 2021）",
+    "url": "https://atcoder.jp/contests/abc219",
+    "start_time": "2021-09-18  2:00  ",
+    "end_time": "2021-09-18  3:40  ",
+    "duration": "6000",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Code Divas Diversity Challenge 2021",
+    "url": "https://www.hackerearth.com/challenges/hiring/code-divas-diversity-challenge-2021/",
+    "start_time": "2021-09-18  2:30  ",
+    "end_time": "2021-09-18  8:25  ",
+    "duration": "21300.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Round F 2021",
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
+    "start_time": "2021-09-18  7:00  ",
+    "end_time": "2021-09-18  0:00  ",
+    "duration": "10800.0",
+    "site": "Kick Start",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "AtCoder Regular Contest 126",
+    "url": "https://atcoder.jp/contests/arc126",
+    "start_time": "2021-09-19  2:00  ",
+    "end_time": "2021-09-19  4:00  ",
+    "duration": "7200",
+    "site": "AtCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "September Cook-Off 2021",
+    "url": "https://www.codechef.com/COOK133?itm_campaign=contest_listing",
+    "start_time": "2021-09-19  6:00  ",
+    "end_time": "2021-09-19  8:30  ",
+    "duration": "9000.0",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "SnackDown Practice Contest: Advanced",
+    "url": "https://www.codechef.com/SDPCA21?itm_campaign=contest_listing",
+    "start_time": "2021-09-20 02:30  ",
+    "end_time": "2021-10-02 02:30  ",
+    "duration": "1036800.0",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "EY GDS Hackpions 3.0",
+    "url": "https://www.hackerearth.com/challenges/hackathon/ey-gds-hackpions-30/",
+    "start_time": "2021-09-20  2:30  ",
+    "end_time": "2021-10-13  8:25  ",
+    "duration": "2008500.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "American Express CodeStreet'21",
+    "url": "https://codestreet-2021.hackerearth.com/",
+    "start_time": "2021-09-23  8:30  ",
+    "end_time": "2021-10-08  8:29  ",
+    "duration": "1295940.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "{Crack the Code} with DP World",
+    "url": "https://www.hackerearth.com/challenges/hiring/crack-the-code-with-dp-world/",
+    "start_time": "2021-09-24 09:30  ",
+    "end_time": "2021-09-26  8:25  ",
+    "duration": "204900.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Innovation Challenge",
+    "url": "https://accenture-innovation-challenge-2021.hackerearth.com/",
+    "start_time": "2021-09-24  2:30  ",
+    "end_time": "2021-10-10  8:25  ",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Tech Mahindra Java Full Stack Software Engineer Hiring Challenge",
+    "url": "https://www.hackerearth.com/challenges/hiring/tech-mahindra-java-full-stack-software-engineer-hiring-challenge/",
+    "start_time": "2021-09-24  2:30  ",
+    "end_time": "2021-10-10  8:25  ",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "City Command with Maps & Location Info Hackathon by NEC and Mitsubishi Corporation",
+    "url": "https://www.hackerearth.com/challenges/hackathon/city-command-with-maps-location-info-hackathon-by-nec-and-mitsubishi-corporation/",
+    "start_time": "2021-09-25 03:30  ",
+    "end_time": "2021-09-26  0:30  ",
+    "duration": "111600.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Reimagine <Future> Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/",
+    "start_time": "2021-09-25 04:30  ",
+    "end_time": "2021-10-24  8:25  ",
+    "duration": "2555700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "September Lunchtime 2021",
+    "url": "https://www.codechef.com/LTIM100?itm_campaign=contest_listing",
+    "start_time": "2021-09-25  4:00  ",
+    "end_time": "2021-09-25  7:00  ",
+    "duration": "10800.0",
+    "site": "CodeChef",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "SRM 814",
+    "url": "https://www.topcoder.com/challenges",
+    "start_time": "2021-09-30 01:00  ",
+    "end_time": "2021-09-30 03:00  ",
+    "duration": "7200.0",
+    "site": "TopCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Prasaga Use Case Ideathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/prasaga-use-case-ideathon/",
+    "start_time": "2021-09-30 08:00  ",
+    "end_time": "2021-10-18 07:59  ",
+    "duration": "1555140.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Criterion 2021 Round 14",
+    "url": "https://toph.co/c/criterion-2021-round-14",
+    "start_time": "2021-10-01  3:00  ",
+    "end_time": "2021-10-01  3:00  ",
+    "duration": "0.0",
+    "site": "Toph",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "IBM Z Student Contest",
+    "url": "https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-powered-by-ibm-z-xplore/",
+    "start_time": "2021-10-15 04:00  ",
+    "end_time": "2021-11-16 04:59  ",
+    "duration": "2768340.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Round G 2021",
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
+    "start_time": "2021-10-16  2:00  ",
+    "end_time": "2021-10-16  5:00  ",
+    "duration": "10800.0",
+    "site": "Kick Start",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Smart Home - Sensors and Analytics Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/hack-iot/",
+    "start_time": "2021-10-18 08:00  ",
+    "end_time": "2021-11-13 07:59  ",
+    "duration": "2246340.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Criterion 2021 Round 15",
+    "url": "https://toph.co/c/criterion-2021-round-15",
+    "start_time": "2021-10-22  3:00  ",
+    "end_time": "2021-10-22  3:00  ",
+    "duration": "0.0",
+    "site": "Toph",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Route Mobile RAPID Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/routemobile-rapid-hackathon/",
+    "start_time": "2021-10-29  2:30  ",
+    "end_time": "2021-11-14  8:25  ",
+    "duration": "1403700.0",
+    "site": "HackerEarth",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "Round H 2021",
+    "url": "https://codingcompetitions.withgoogle.com/kickstart/schedule",
+    "start_time": "2021-11-14 03:00  ",
+    "end_time": "2021-11-14 06:00  ",
+    "duration": "10800.0",
+    "site": "Kick Start",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "TCO22 Algorithm Round 1A",
+    "url": "https://www.topcoder.com/challenges",
+    "start_time": "2022-04-16  6:00  ",
+    "end_time": "2022-04-16  8:00  ",
+    "duration": "7200.0",
+    "site": "TopCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "TCO22 Algorithm Round 1B",
+    "url": "https://www.topcoder.com/challenges",
+    "start_time": "2022-04-27  1:00  ",
+    "end_time": "2022-04-27  3:00  ",
+    "duration": "7200.0",
+    "site": "TopCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "TCO22 Algorithm Round 2A",
+    "url": "https://www.topcoder.com/challenges",
+    "start_time": "2022-05-21  6:00  ",
+    "end_time": "2022-05-21  8:00  ",
+    "duration": "7200.0",
+    "site": "TopCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "TCO22 Algorithm Round 2B",
+    "url": "https://www.topcoder.com/challenges",
+    "start_time": "2022-06-01  1:00  ",
+    "end_time": "2022-06-01  3:00  ",
+    "duration": "7200.0",
+    "site": "TopCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "TCO22 Algorithm Round 3",
+    "url": "https://www.topcoder.com/challenges",
+    "start_time": "2022-07-07  1:00  ",
+    "end_time": "2022-07-07  3:00  ",
+    "duration": "7200.0",
+    "site": "TopCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  },
+  {
+    "name": "TCO22 Algorithm Round 4",
+    "url": "https://www.topcoder.com/challenges",
+    "start_time": "2022-07-30  6:00  ",
+    "end_time": "2022-07-30  8:00  ",
+    "duration": "7200.0",
+    "site": "TopCoder",
+    "in_24_hours": "No",
+    "status": "BEFORE"
+  }
+]

@@ -223,7 +223,7 @@ function display() {
           <div className="row featurette">
             <div className="col-md-7">
               <h2 className="featurette-heading">
-                And lastly, this one, Optimized Google Search string.{" "}
+                And lastly, this one, Optimized Google Search.{" "}
                 <span className="text-muted">Checkmate.</span>
               </h2>
               <p className="lead">
